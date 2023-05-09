@@ -52,8 +52,6 @@ def movie_get():
 
 
 
-# 여기서부터 추가
-
 #글쓰기 페이지
 @app.route('/create/')
 def create():
